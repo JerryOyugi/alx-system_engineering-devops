@@ -1,1 +1,1 @@
-Shell basics script is to be written
+This is the non empty README.md file
